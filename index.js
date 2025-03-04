@@ -27,4 +27,4 @@ else { (xp >= 10001)
     nivel = 'Radiante'
 }
 
-console.log(`O herói ${heroi} está no nível ${nivel}`) 
+console.log(`O herói ${heroi} está no nível ${nivel}`)
